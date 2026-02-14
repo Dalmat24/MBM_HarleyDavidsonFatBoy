@@ -1,96 +1,68 @@
-TraderPlus – Configuraciones JSON para MBM_HarleyDavidsonFatBoy
+TraderPlus – JSON Configuration for MBM_HarleyDavidsonFatBoy
+📦 Overview
 
-Este repositorio contiene archivos de configuración JSON para el mod TraderPlus de DayZ, específicamente pensados para el mod MBM_HarleyDavidsonFatBoy.
+This repository provides JSON configuration files for the TraderPlus mod in DayZ, specifically tailored for the MBM_HarleyDavidsonFatBoy mod.
 
-Los archivos han sido creados originalmente para uso personal en servidor propio.
-Al no encontrar configuraciones similares publicadas, se comparten para que puedan ser útiles a otros administradores de servidores que utilicen MBM_HarleyDavidsonFatBoy.
+These configurations were originally created for personal server use.
+Since no similar public configurations were available, they are shared here to help other server administrators save time and streamline setup.
 
-Contenido
+📁 Contents
 
-Archivos JSON listos para usar o adaptar
+Ready-to-use JSON files
 
-Configuración base orientada a una economía equilibrada
+Balanced economy base setup
 
-Sin modificaciones de código ni scripts
+No script or source code modifications
 
-Requisitos
+Clean and modular configuration structure
 
-Servidor DayZ
+⚙ Requirements
 
-Mod TraderPlus
-
-Mod MBM_HarleyDavidsonFatBoy correctamente instalado
-
-Uso
-
-Copia los archivos JSON en la carpeta correspondiente de TraderPlus en tu servidor.
-
-Ajusta precios, categorías o cantidades según la economía de tu servidor.
-
-Reinicia el servidor para aplicar los cambios.
-
-Notas
-
-Estos ajustes son una base, no una solución universal.
-Cada servidor tiene necesidades distintas: ajusta los valores según tu criterio.
-
-No incluyen datos sensibles ni configuraciones privadas de servidor.
-
-Licencia y uso
-
-Eres libre de usar, modificar y adaptar estos archivos para tu servidor.
-No hay obligación de atribución, aunque siempre se agradece.
-
-Aporte
-
-Este repositorio no pretende ser “el mejor”, sino ser útil.
-Si a alguien le ahorra tiempo, el objetivo está cumplido.
-
-
-TraderPlus – JSON Configurations for MBM_HarleyDavidsonFatBoy
-
-This repository contains JSON configuration files for the TraderPlus mod for DayZ, specifically designed for the MBM_HarleyDavidsonFatBoy mod.
-
-These files were originally created for personal use on a private server.
-Since no similar configurations were publicly available, they are being shared to help other server administrators using MBM_HarleyDavidsonFatBoy.
-
-Content
-
-Ready-to-use or customizable JSON files
-
-Base configuration focused on a balanced economy
-
-No code or script modifications included
-
-Requirements
-
-DayZ server
+DayZ Server
 
 TraderPlus mod
 
 MBM_HarleyDavidsonFatBoy mod properly installed
 
-Usage
+🚀 Installation
 
-Copy the JSON files into the appropriate TraderPlus folder on your server.
+Download or clone this repository.
 
-Adjust prices, categories, or quantities according to your server’s economy.
+Copy the JSON files into your TraderPlus configuration directory.
 
-Restart the server to apply the changes.
+Adjust prices, stock limits, or categories as needed.
 
-Notes
+Restart your server.
 
-These settings are a base configuration, not a universal solution.
-Each server has different needs — adjust values according to your own criteria.
+🛠 Customization
 
-No sensitive data or private server configurations are included.
+This setup is designed as a balanced baseline economy, not a fixed solution.
 
-License & Usage
+Every server has different gameplay goals.
+You are encouraged to adjust:
 
-You are free to use, modify, and adapt these files for your server.
-Attribution is not required, though it is always appreciated.
+Buy/Sell prices
 
-Contribution
+Stock limits
 
-This repository does not aim to be “the best,” but to be useful.
-If it saves someone time, then the goal has been achieved.
+Trader categories
+
+Economic balance values
+
+🔒 Notes
+
+No sensitive server data included.
+
+No private configurations.
+
+Fully safe to use and modify.
+
+📜 License
+
+Free to use, modify, and adapt for your own server.
+Attribution is appreciated but not required.
+
+🤝 Contribution
+
+This repository does not aim to be perfect — only practical.
+If it saves you setup time, then it has fulfilled its purpose.
