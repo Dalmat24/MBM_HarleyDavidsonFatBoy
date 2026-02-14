@@ -1,0 +1,36 @@
+{
+    "Version": "2.5",
+    "EnableAutoCalculation": 0,
+    "EnableAutoDestockAtRestart": 0,
+    "EnableDefaultTraderStock": 0,
+    "TraderCategories": [
+        {
+            "CategoryName": "Moto Harley",
+            "Products": [
+                "MBM_HarleyDavidsonFatBoy_Black,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_White,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Pink,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Red,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Blue,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Green,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Orange,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Yellow,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Gold,1,-1,0,10000,5000",
+                "MBM_HarleyDavidsonFatBoy_Police,1,-1,0,10000,5000"
+            ]
+        },
+        {
+            "CategoryName": "Partes Harley",
+            "Products": [
+                "MBM_Harley_Plate_9A7218,1,-1,0,250,100",
+                "MBM_Harley_Plate_FatBoy,1,-1,0,250,100",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front,1,-1,0,250,100",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear,1,-1,0,250,100",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front_Spoked,1,-1,0,250,100",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear_Spoked,1,-1,0,250,100",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Destroyed,1,-1,0,250,100",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Spoked_Destroyed,1,-1,0,250,100"
+            ]
+        }
+    ]
+}

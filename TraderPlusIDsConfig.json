@@ -1,0 +1,14 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 4,
+            "Categories": [
+                "Moto Harley",
+                "Partes Harley"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}
