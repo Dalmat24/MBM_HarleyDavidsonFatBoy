@@ -1,4 +1,4 @@
-TraderPlus – JSON Configuration for MBM_HarleyDavidsonFatBoy
+# TraderPlus – JSON Configuration for MBM_HarleyDavidsonFatBoy
 📦 Overview
 
 This repository provides JSON configuration files for the TraderPlus mod in DayZ, specifically tailored for the MBM_HarleyDavidsonFatBoy mod.
@@ -6,7 +6,7 @@ This repository provides JSON configuration files for the TraderPlus mod in DayZ
 These configurations were originally created for personal server use.
 Since no similar public configurations were available, they are shared here to help other server administrators save time and streamline setup.
 
-📁 Contents
+##  📁 Contents
 
 Ready-to-use JSON files
 
@@ -16,7 +16,7 @@ No script or source code modifications
 
 Clean and modular configuration structure
 
-⚙ Requirements
+# # ⚙ Requirements
 
 DayZ Server
 
@@ -24,7 +24,7 @@ TraderPlus mod
 
 MBM_HarleyDavidsonFatBoy mod properly installed
 
-🚀 Installation
+# # 🚀 Installation
 
 Download or clone this repository.
 
@@ -34,7 +34,7 @@ Adjust prices, stock limits, or categories as needed.
 
 Restart your server.
 
-🛠 Customization
+# # 🛠 Customization
 
 This setup is designed as a balanced baseline economy, not a fixed solution.
 
@@ -49,7 +49,7 @@ Trader categories
 
 Economic balance values
 
-🔒 Notes
+# # 🔒 Notes
 
 No sensitive server data included.
 
@@ -57,12 +57,12 @@ No private configurations.
 
 Fully safe to use and modify.
 
-📜 License
+# # 📜 License
 
 Free to use, modify, and adapt for your own server.
 Attribution is appreciated but not required.
 
-🤝 Contribution
+# # 🤝 Contribution
 
 This repository does not aim to be perfect — only practical.
 If it saves you setup time, then it has fulfilled its purpose.
